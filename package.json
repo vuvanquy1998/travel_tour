@@ -1,0 +1,22 @@
+{
+  "name": "travel_tour",
+  "version": "1.0.0",
+  "description": "------------- ### Tài liệu hướng dẫn - Để sử dụng dụng SDK một cách hiệu quả bạn nên đọc trước tài liệu hướng dẫn sử dụng tại [WeMap SDK Documents](https://wemap-official.github.io/WeMap-SDK-Documents/ \"WeMap SDK\")",
+  "main": "index.js",
+  "scripts": {
+    "build": "browserify index.js -o index_build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WEMAP-Official/WeMap-Web-SDK-Release.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WEMAP-Official/WeMap-Web-SDK-Release/issues"
+  },
+  "homepage": "https://github.com/WEMAP-Official/WeMap-Web-SDK-Release#readme",
+  "devDependencies": {
+    "browserify": "^16.5.1"
+  }
+}
